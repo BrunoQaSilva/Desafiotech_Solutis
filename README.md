@@ -20,3 +20,7 @@ const token = Cypress.env('TRELLO_TOKEN');
 </pre>
 
 <p>O arquivo <code>cypress.config.js</code> já está configurado para carregar automaticamente essas variáveis de ambiente.</p>
+
+Mapa mental:
+
+![image](https://github.com/user-attachments/assets/ba6c9bc0-5b1e-447c-a881-cf99d6ad9aaf)
