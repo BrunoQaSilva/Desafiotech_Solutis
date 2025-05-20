@@ -23,4 +23,5 @@ const token = Cypress.env('TRELLO_TOKEN');
 
 Mapa mental:
 
-![image](https://github.com/user-attachments/assets/ba6c9bc0-5b1e-447c-a881-cf99d6ad9aaf)
+![image](https://github.com/user-attachments/assets/b952bdbb-6995-47ec-ac90-079a5b1d37fa)
+
